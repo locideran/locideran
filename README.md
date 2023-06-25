@@ -1,8 +1,8 @@
 <link rel="stylesheet" href="style.css"> 
 <h1>Olá 👋, Eu sou o Locideran</h1>
 <p>🧑🏻‍🎓 Estudando Dev Web 🧑🏻‍🎓</p>
-
-<p id="trofeus"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=locideran&theme=dracula" alt="locideran" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=locideran&theme=dracula" alt="locideran"/></a> </p>
 
 
 <h2>Como chegar até mim:</h2>
