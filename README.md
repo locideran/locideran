@@ -1,4 +1,11 @@
-<link rel="stylesheet" href="style.css">    
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cordel Morderno</title>
+    <link rel="stylesheet" href="style.css">
+</head>    
 <h1>Olá 👋, Eu sou o Locideran</h1>
 <p>:construction: Estudando Dev Web :construction:</p>
 
