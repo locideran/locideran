@@ -1,4 +1,4 @@
-<title>Meu GitHub<title>
+<title>Meu GitHub</title>
 <link rel="stylesheet" href="style.css"> 
 <h1>Olá 👋, Eu sou o Locideran</h1>
 <p>🧑🏻‍🎓 Estudando Dev Web 🧑🏻‍🎓</p>
