@@ -8,7 +8,7 @@
 <h2>Como chegar até mim:</h2>
 
  
-<a href="mailto: gabriel-masc@hotmail.com"   target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto: gabriel-masc@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <h2>Me siga nas redes sociais:</h2>
 <p>
