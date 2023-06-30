@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Eu sou o Locideran</h1>
-<p align="center">🧑🏻‍🎓 Estudando Dev Web 🧑🏻‍🎓</p>
+<p align="center">HTML | DEV WEB | CSS | JS | BOOSTRAP</p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=locideran&theme=dracula" alt="locideran"/></a> </p>
 
